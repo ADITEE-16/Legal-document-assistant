@@ -53,7 +53,7 @@ User Question
  -Context Precision : 0.80
 
 ## Author
-Name: Your Name Here
-Roll Number: Your Roll Number
-Batch: Your Batch Name
+Name: ADITEE TRIPATHY
+Roll Number: 23052047
+Batch: CSE 2027
 Course: Agentic AI — 2026
