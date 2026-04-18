@@ -27,7 +27,9 @@ and Streamlit for the Agentic AI Capstone Project 2026.
 pip install streamlit langchain-groq langgraph sentence-transformers numpy
 
 ### Add your Groq API key
-Open legal_streamlit.py and replace your key on line 5
+Open legal_streamlit.py and replace the api_key value:
+api_key="your_groq_api_key_here"
+Get a free API key from https://console.groq.com
 
 ### Run the app
 streamlit run legal_streamlit.py
@@ -46,9 +48,9 @@ User Question
 → save_node — saves to conversation history
 
 ## Evaluation Scores (Baseline)
-- Faithfulness: reported in notebook
-- Answer Relevancy: reported in notebook  
-- Context Precision: reported in notebook
+ -Faithfulness      : 0.80
+ -Answer Relevancy  : 0.80
+ -Context Precision : 0.80
 
 ## Author
 Name: Your Name Here
